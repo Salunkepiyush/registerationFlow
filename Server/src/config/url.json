@@ -1,0 +1,5 @@
+{
+  "HEALTH": "/health",
+  "AUTHENTICATE": "/user/authenticate",
+  "SAVE_USER": "/user"
+}
